@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/buscadorDeNoticias/static/css/main.9dc4bdeb.chunk.css",
+    "main.js": "/buscadorDeNoticias/static/js/main.d1c96734.chunk.js",
+    "main.js.map": "/buscadorDeNoticias/static/js/main.d1c96734.chunk.js.map",
+    "runtime-main.js": "/buscadorDeNoticias/static/js/runtime-main.c0ed44ca.js",
+    "runtime-main.js.map": "/buscadorDeNoticias/static/js/runtime-main.c0ed44ca.js.map",
+    "static/js/2.1fe8522b.chunk.js": "/buscadorDeNoticias/static/js/2.1fe8522b.chunk.js",
+    "static/js/2.1fe8522b.chunk.js.map": "/buscadorDeNoticias/static/js/2.1fe8522b.chunk.js.map",
+    "index.html": "/buscadorDeNoticias/index.html",
+    "precache-manifest.91d3f8af509b0b0e77ebdc309094da8e.js": "/buscadorDeNoticias/precache-manifest.91d3f8af509b0b0e77ebdc309094da8e.js",
+    "service-worker.js": "/buscadorDeNoticias/service-worker.js",
+    "static/css/main.9dc4bdeb.chunk.css.map": "/buscadorDeNoticias/static/css/main.9dc4bdeb.chunk.css.map",
+    "static/js/2.1fe8522b.chunk.js.LICENSE.txt": "/buscadorDeNoticias/static/js/2.1fe8522b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0ed44ca.js",
+    "static/js/2.1fe8522b.chunk.js",
+    "static/css/main.9dc4bdeb.chunk.css",
+    "static/js/main.d1c96734.chunk.js"
+  ]
+}
