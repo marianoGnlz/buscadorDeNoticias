@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/buscadordenoticias/static/css/main.9dc4bdeb.chunk.css",
-    "main.js": "/buscadordenoticias/static/js/main.ad93dd3c.chunk.js",
-    "main.js.map": "/buscadordenoticias/static/js/main.ad93dd3c.chunk.js.map",
-    "runtime-main.js": "/buscadordenoticias/static/js/runtime-main.413142d5.js",
-    "runtime-main.js.map": "/buscadordenoticias/static/js/runtime-main.413142d5.js.map",
-    "static/js/2.1fe8522b.chunk.js": "/buscadordenoticias/static/js/2.1fe8522b.chunk.js",
-    "static/js/2.1fe8522b.chunk.js.map": "/buscadordenoticias/static/js/2.1fe8522b.chunk.js.map",
-    "index.html": "/buscadordenoticias/index.html",
-    "precache-manifest.a3b611c8c94e7751b568daf706972750.js": "/buscadordenoticias/precache-manifest.a3b611c8c94e7751b568daf706972750.js",
-    "service-worker.js": "/buscadordenoticias/service-worker.js",
-    "static/css/main.9dc4bdeb.chunk.css.map": "/buscadordenoticias/static/css/main.9dc4bdeb.chunk.css.map",
-    "static/js/2.1fe8522b.chunk.js.LICENSE.txt": "/buscadordenoticias/static/js/2.1fe8522b.chunk.js.LICENSE.txt"
+    "main.css": "/buscadorDeNoticias/static/css/main.9dc4bdeb.chunk.css",
+    "main.js": "/buscadorDeNoticias/static/js/main.d1c96734.chunk.js",
+    "main.js.map": "/buscadorDeNoticias/static/js/main.d1c96734.chunk.js.map",
+    "runtime-main.js": "/buscadorDeNoticias/static/js/runtime-main.c0ed44ca.js",
+    "runtime-main.js.map": "/buscadorDeNoticias/static/js/runtime-main.c0ed44ca.js.map",
+    "static/js/2.1fe8522b.chunk.js": "/buscadorDeNoticias/static/js/2.1fe8522b.chunk.js",
+    "static/js/2.1fe8522b.chunk.js.map": "/buscadorDeNoticias/static/js/2.1fe8522b.chunk.js.map",
+    "index.html": "/buscadorDeNoticias/index.html",
+    "precache-manifest.91d3f8af509b0b0e77ebdc309094da8e.js": "/buscadorDeNoticias/precache-manifest.91d3f8af509b0b0e77ebdc309094da8e.js",
+    "service-worker.js": "/buscadorDeNoticias/service-worker.js",
+    "static/css/main.9dc4bdeb.chunk.css.map": "/buscadorDeNoticias/static/css/main.9dc4bdeb.chunk.css.map",
+    "static/js/2.1fe8522b.chunk.js.LICENSE.txt": "/buscadorDeNoticias/static/js/2.1fe8522b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.413142d5.js",
+    "static/js/runtime-main.c0ed44ca.js",
     "static/js/2.1fe8522b.chunk.js",
     "static/css/main.9dc4bdeb.chunk.css",
-    "static/js/main.ad93dd3c.chunk.js"
+    "static/js/main.d1c96734.chunk.js"
   ]
 }
