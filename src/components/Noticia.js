@@ -3,11 +3,11 @@ import PropTypes from 'prop-types';
 
 const Noticia = ({ noticia }) => {
     
-    const { image, url, title, description, source } = noticia;
+    const { urlToImage, url, title, description, source } = noticia;
 
-    const imagen = image ? 
+    const imagen = urlToImage ? 
         <div className="card-image">
-            <img src={image} alt={title} />
+            <img src={urlToImage} alt={title} />
             <span className="card-title">{ source.name }</span>
         </div>
     : null;
